@@ -1,4 +1,5 @@
 An interactive Power BI Dashboard providing actionable insights into mobile product performance — helping to compare categories, evaluate pricing trends, and identify customer preferences.
+
 ⚙️ Key Steps:
 
 Data Preparation: Cleaned and formatted dataset in Python.
